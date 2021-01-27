@@ -1,0 +1,15 @@
+{
+    "name": "04-por-hacer",
+    "version": "1.0.0",
+    "description": "Aplicacion de Tareas por hacer",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Gustavo Spessot",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "yargs": "^16.2.0"
+    }
+}
